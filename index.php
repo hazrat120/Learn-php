@@ -181,3 +181,406 @@
     // }
 
 ?>
+
+<?php
+
+    // $color = 'blue';
+    //     switch($color){
+    //             case "red":
+    //                 echo 'You chose red! <br>';
+    //                 break;
+    //             case 'blue':
+    //                 echo 'You chose blue! <br>';
+    //                 break;
+    //             case 'green':
+    //                 echo 'You chose greed! <br>';
+    //                 break;
+    //             case 'yellow':
+    //                 echo 'You chose yellow! <br>';
+    //                 break;
+    //         default:
+    //                 echo 'Unknown color! <br>';
+    // };
+
+    //         $day = 7;
+    //         switch($day){
+    //             case 1:
+    //                 echo 'Saturday <br>';
+    //                 break;
+    //             case 2:
+    //                 echo 'Sunday <br>';
+    //                 break;
+    //             case 3:
+    //                 echo "Monday <br>";
+    //                 break;
+    //             case 4:
+    //                 echo 'Tuesday <br>';
+    //                 break;
+    //             case 5:
+    //                 echo 'Wednesday <br>';
+    //                 break;
+    //             case 6:
+    //                 echo 'Thursday <br>';
+    //                 break;
+    //             case 7:
+    //                 echo 'Friday <br>';
+    //                 break;
+    //             default:
+    //                 echo 'Invalid day! <br>';
+    //         };
+
+    //         $light = 'komla';
+    //         switch($light){
+    //             case 'green':
+    //                 echo 'Go! <br>';
+    //                 break;
+    //             case 'yellow':
+    //                 echo 'Get ready to stop. <br>';
+    //                 break;
+    //             case 'red':
+    //                 echo 'Stop! <br>';
+    //                 break;
+    //             default:
+    //                 echo 'Signal invalid! <br>';
+    //         };
+
+    //         $grade = 'A';
+    //         switch($grade){
+    //             case 'A':
+    //                 echo 'Excellent!<br>';
+    //                 break;
+    //             case 'B':
+    //                 echo 'Good!<br>';
+    //                 break;
+    //             case 'C':
+    //                 echo 'Average!<br>';
+    //                 break;
+    //             case 'D':
+    //                 echo 'Below Average!<br>';
+    //                 break;
+    //             case 'F':
+    //                 echo 'Fail!<br>';
+    //                 break;
+    //             default:
+    //                 echo 'Invalid grade!<br>';
+    //         };
+
+    //         $month = 'Julyys';
+    //         switch($month){
+    //             case 'December':
+    //             case 'January':
+    //             case 'February':
+    //                 echo "It's Winter! <br>";
+    //                 break;
+    //             case 'March':
+    //             case 'April':
+    //             case 'May':
+    //                 echo "It's Sring! <br>";
+    //                 break;
+    //             case 'June':
+    //             case 'July':
+    //             case 'August':
+    //                 echo "It's Summer!<br>";
+    //                 break;
+    //             case 'September':
+    //             case 'October':
+    //             case 'November':
+    //                 echo "It's Autumn!<br>";
+    //                 break;
+    //             default:
+    //                 echo 'Invalid month!<br>';
+    //         };
+
+    //         $browser = 'Edgeddd';
+    //         switch($browser){
+    //             case 'Chrome':
+    //                 echo 'You are using Google Chrome.<br>';
+    //                 break;
+    //             case 'Firefox':
+    //                 echo 'You are using Mozilla Firefox.<br>';
+    //                 break;
+    //             case 'Safari':
+    //                 echo 'You are using Apple Safari.<br>';
+    //                 break;
+    //             case 'Edge':
+    //                 echo 'You are uging Microsoft Edge.<br>';
+    //                 break;
+    //             default:
+    //             echo 'Unknown browser!<br>';
+    //         };
+
+    // $rating = 3;
+    // switch($rating){
+    //     case 10:
+    //         echo 'Outstanding!<br>';
+    //         break;
+    //     case 8:
+    //     case 9:
+    //         echo 'Very good! <br>';
+    //         break;
+    //     case 6:
+    //     case 7:
+    //         echo 'Good!<br>';
+    //         break;
+    //     case 4:
+    //     case 5:
+    //         echo 'Average!<br>';
+    //         break;
+    //     case 2:
+    //     case 3:
+    //         echo 'Poor!<br>';
+    //         break;
+    //     case 0:
+    //     case 1:
+    //         echo 'Very poor!<br>';
+    //     default:
+    //         echo 'Invalid rating!<br>';
+    // };
+
+    // $paymentMethod = "Bank Transferaaaaa";
+    // switch($paymentMethod){
+    //     case 'Credit Card':
+    //         echo 'You chose Credit Card.<br>';
+    //         break;
+    //     case 'PayPal':
+    //         echo 'You chose PayPal.<br>';
+    //         break;
+    //     case 'Bank Transfer':
+    //         echo 'You chose Bank Transfer.<br>';
+    //         break;
+    //     default:
+    //         echo 'Unknown payment method!<br>';
+    // };
+
+    // $x = 0;
+    // while($x <= 5){
+    //     echo 'The number is: $x <br>';
+    //     $x++;
+    // };
+
+    // do{
+    //     echo "The number is: $x <br>";
+    //     $x++;
+    // }while($x <= 20);
+
+    // for($y = 0; $y <= 10; $y+=3){
+    //     echo "The number is: $y <br>";
+    // };
+
+?>
+
+<?php 
+    // for($i = 0; $i <= 5; $i++){
+    //     echo "Number is: $i <br>";
+    // };
+
+    // for($A = 5; $A < 10; $A++){
+    //     echo "The number is: $A <br>";
+    // };
+
+    // $i = 2; 
+    // while($i <= 5 ){
+    //     echo "The digit is: $i <br>";
+    //     $i++;
+    // };
+
+    // $i = 2;
+    // do{
+    //     echo "Number: $i <br>";
+    //     $i++;
+    // }while($i < 10);
+
+    // $I = 0;
+    // do{
+    //     echo "Number is: $I <br>";
+    //     $I++;
+    // }while($I < 10);
+
+    // $name = ["Ali", 'Hazrat', 'Sara', 'Farzana', 'Borkot'];
+    // foreach($name as $name){
+    //     echo "Name: $name<br>";
+    // };
+
+    // $Foots = ['Banana', 'Mango', 'Graps', 'Lemon', 'Painaple', 'Watermellon', 'Junkfroots',];
+    // foreach($Foots as $Foots){
+    //     echo "Foots Name: $Foots<br>";
+    // };
+
+    // for($i = 1; $i <= 5; $i++){
+    //     for($j = 1; $j <= 5; $j++){
+    //         echo "$i * $j = " . ($i * $j) . "<br>";
+    //     };
+    // };
+
+    // for($i = 1; $i <= 5; $i++){
+    //     for($j = 1; $j <= 5; $j++){
+    //         echo "$i * $j = " . ($i * $j) . '<br>';
+    //     };
+    // };
+
+    // $sum = 20;
+    // for($i = 1; $i <= 10; $i++){
+    //     $sum += $i;
+    // };
+    // echo "1 to 10 Number of Sum is: $sum";
+
+    // $i = 0;
+    // while($i <= 20){
+    //     if($i % 2 == 0){
+    //         echo "$i<br>";
+    //     }
+    //     $i++;
+    // };
+
+    // $i = 0;
+    // while($i <= 10){
+    //     if($i % 2 == 0){
+    //         echo "$i<br>";
+    //     }
+    //     $i++;
+    // };
+
+    // $i = 0;
+    // do{
+    //     if($i % 2 != 0){
+    //         echo "$i <br>";
+    //     }
+    //     $i++;
+    // }while($i <= 10);
+
+    // do{
+    //     if($i % 2 != 0){
+    //         echo "$i <br>";
+    //     }
+    //     $i++;
+    // }while($i <= 20);
+
+    // $students = ["Ali" => 23, "Farzana" => 22, "Borkot" => 24, "Sara" => 23];
+    
+    // foreach($students as $name => $marks){
+    //     echo "$name Age is: $marks <br>";
+    // };
+
+    // $foots = ['Mango' => 10, "Lemon" => 15, 'Painaple' => 5, 'Orange' => 10,];
+    // foreach($foots as $name => $marks){
+    //     echo "$name  $marks kilo <br>";
+    // };
+
+    // $i = 0;
+    // while(true){
+    //     if($i == 5){
+    //         break;
+    //     }
+    //     echo "Number is: $i <br>";
+    //     $i++;
+    // };
+
+    // for($i = 7; $i >=0; $i--){
+    //     echo "Number is: $i <br>";
+    // };
+
+    // for($i = 10; $i >= 0; $i--){
+    //     echo "Number is: $i <br>";
+    // };
+
+    // for($i = 0; $i < 10; $i++){
+    //     if($i % 2 == 0){
+    //         continue;
+    //     }
+    //     echo "$i <br>";
+    // };
+
+    // for($i = 0; $i < 10; $i++){
+    //     if($i % 2 == 0){
+    //         continue;
+    //     }
+    //     echo "Number is: $i <br>";
+    // };
+
+    // $n = 5;
+    // $factorial = 1;
+    // $i = 1;
+    // while ($i <= $n){
+    //     $factorial *= $i;
+    //     $i++;
+    // }
+    // echo "Factorial $n is: $factorial";
+
+    // $students = [
+    //     ['name' => 'Hazrat', 'age' => 20],
+    //     ['name' => 'Ali', 'age' => 23],
+    //     ['name' => 'Farzana', 'age' => 25],
+    //     ['name' => 'Borkot', 'age' => 21],
+    //     ['name' => 'Mobarok', 'age' => 24]
+    // ];
+
+    // foreach($students as $student){
+    //     echo 'Name: ' . $student['name'] . ", age: " . $student['age'] . "<br>";
+    // }
+
+    // $num = 5;
+    // for($i = 1; $i <= 10; $i++){
+    //     echo "$num * $i = " . ($num * $i) . "<br>";
+    // }
+
+    // $str = "Hello, World! <br>";
+    // $length = strlen($str);
+    // echo "Str length: " . $length;
+
+    // $text = "Hello Hazrat Ali. How are you?";
+    // $new_text = str_replace("Hello", 'PHP', $text);
+    // echo "<br>PHP replace to : " . $new_text;
+
+    // $fruits = array('Apple', 'Banana', 'Orange', 'Mango', 'Graps', 'Papaya', 'Nuts');
+    // array_push($fruits, 'Kola', 'Lemon');
+    // print_r($fruits);
+    // var_dump($fruits);
+
+    // $fruits = array('Apple', "Banana", 'Orange', 'Graps', 'Junkfruts', 'Painaaple');
+    // array_push($fruits, 'Komla', "Amm");
+    // print_r($fruits);
+    // var_dump($fruits);
+
+    // $array1 = array('Red', 'Green');
+    // $array2 = array('Blue', 'Yellow');
+    // $result = array_merge($array1, $array2);
+    // print_r($result);
+    // // print($result);
+    // // echo $result;
+    // var_dump($result);
+
+    // $fruits = array('Apple', 'Banana');
+    // array_push($fruits, 'Orange', 'Mango');
+    // print_r($fruits);
+    // var_dump($fruits);
+
+    // $array1 = array('Red', 'Green');
+    // $array2 = array('Blue', 'Yellow');
+    // $array3 = array("Orange", "Skyblue");
+    // $result = array_merge($array1, $array2, $array3);
+    // print_r($result);
+    // var_dump($result);
+
+    // $fruits = array("Apple", 'Banana', 'Orange');
+    // echo count($fruits);
+
+    // $fruits = array('Apple', 'Banana', 'Orange', 'Mango', 'Graps', 'Jankfruits');
+    // echo count($fruits);
+
+    // $name = "Hazrat Ali";
+    // if(isset($name)){
+    //     echo 'Variable is set';
+    // };
+
+    // $name1 = 'Hazrat Ali';
+    // if(isset($name)){
+    //     echo 'Variable is set.';
+    // };
+
+    $value = "";
+    if(empty($value)){
+        echo 'Value is empty.';
+    };
+
+?>
+
